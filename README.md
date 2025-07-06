@@ -1,7 +1,8 @@
 # Introducción a NeuroKit2 - UDEA
 
 Este repositorio contiene un tutorial introductorio sobre **[NeuroKit2](https://neurokit2.readthedocs.io/)**, una biblioteca de Python diseñada para el análisis de señales fisiológicas como ECG, EMG, EDA y respiración. Es una guía práctica creada para estudiantes e investigadores interesados en neurociencia computacional y análisis de datos fisiológicos.
-Por Juan Caguasango - Kevin Gracia Jaramillo
+---
+ **Por Juan Caguasango - Kevin Gracia Jaramillo **
 
 ---
 
