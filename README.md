@@ -1,4 +1,4 @@
-# Introducción a NeuroKit2 - UDEA
+# Introducción a NeuroKit2 - Universidad de Antioquia
 
 Este repositorio contiene un tutorial introductorio sobre [NeuroKit2](https://neurokit2.readthedocs.io/), una biblioteca de Python diseñada para el procesamiento y análisis de señales fisiológicas como:
 
